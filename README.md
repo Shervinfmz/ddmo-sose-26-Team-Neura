@@ -264,4 +264,4 @@ Never commit:
 **Team Neura — DDMO SoSe 2026**
 
 Project focused on data-driven electricity-load forecasting and machine-learning-based forecasting evaluation.
-```
+
